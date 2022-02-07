@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bar {
+  height: 20px;
+  border: 2px solid black;
+  display: flex;
+  background-color: blue;
+  border-radius: 5px;
+}
+.heading {
+  text-align: center;
+}
